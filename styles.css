@@ -1,0 +1,32 @@
+body{
+    background-color:hsl(212, 45%, 89%);
+}
+
+.box {
+    background:hsl(0, 0%, 100%);
+    border-radius: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);       
+}
+
+.imagem {
+    width: 300px;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.titulo {
+    font-size: 22px;
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+    font-family: outfit, sans-serif;
+}
+
+.texto {
+    font-size: 15px;
+    color:hsl(220, 15%, 55%);
+    text-align: center;
+    font-family: outfit, sans-serif;
+}
